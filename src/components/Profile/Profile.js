@@ -11,7 +11,7 @@ export default function Profile(){
                 alt="Аватар пользователя"
                 class="avatar"
                 />
-                <p class="name">Petra Marica</p>
+                <p class="name">Petra Marica Kosovmax</p>
                 <p class="tag">@pmarica</p>
                 <p class="location">Salvador, Brasil</p>
             </div>
